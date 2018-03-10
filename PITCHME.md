@@ -21,7 +21,7 @@
 ---
 ## おしながき
 - より発展的なPlaybookの書き方
-- デモ(Wordpressのインストール)
+- デモ(WordPressのインストール)
 - Dynamic Inventory
 - デモ(AWS EC2のインベントリ取得)
 ---
@@ -31,7 +31,7 @@
 - べき等性を意識する
 - Simple is best
 ---
-## Wordpressのセットアップを考える
+## WordPressのセットアップを考える
 ### 必要と思われる作業
 - 本体と関連パッケージのインストール
 - 自動起動設定
